@@ -6,4 +6,4 @@ This template should help get you started developing with Next with Auth Credent
 Each lesson has it's own branch. To see the code for a lesson, select that lesson from the branch drop-down.
 
 ## Reference
-All the course files for the TypeScript tutorial playlist on [Full Stack Niraj YouTube channel](https://www.youtube.com/watch?v=EFucgPdjeNg&t=620s).
+All the course files for the Next with Auth Credentials tutorial playlist on [Full Stack Niraj YouTube channel](https://www.youtube.com/watch?v=EFucgPdjeNg&t=620s).
