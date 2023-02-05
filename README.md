@@ -1,5 +1,9 @@
-This is a Next.js Auth project made for educational purpose
-Part one: [See Video](https://youtu.be/EFucgPdjeNg).
-Part two: [See Video](https://youtu.be/ollnut-J47s).
+## Learn Next with Auth Credentials 
 
-Just do `npm install`
+This template should help get you started developing with Next with Auth Credentials.
+
+## How to use the files
+Each lesson has it's own branch. To see the code for a lesson, select that lesson from the branch drop-down.
+
+## Reference
+All the course files for the TypeScript tutorial playlist on [Full Stack Niraj YouTube channel](https://www.youtube.com/watch?v=EFucgPdjeNg&t=620s).
